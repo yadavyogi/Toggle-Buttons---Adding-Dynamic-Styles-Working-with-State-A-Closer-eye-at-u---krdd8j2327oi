@@ -1,3 +1,13 @@
-#btn1,#btn2{
-    font-size: 50px;
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.active {
+  display: block;
+}
+
+.hide {
+  display: none;
 }
